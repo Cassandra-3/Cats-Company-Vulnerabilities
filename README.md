@@ -7,4 +7,4 @@ Cat has requested a vulnerability assessment scan and collect all the informatio
 
 Cat wants to make sure the executive team has all the information they need, but she knows that they don’t have a lot of time. She has asked to write a vulnerability assessment report that explains the issues found, what is affected, what it might mean to the business, and what suggestions are recommend to fix the issues.
 
-[Cat's Vulnerability Report] (https://docs.google.com/document/d/1fSlzb1O6nH7J_dbh4dNbvEVf4sWjmqor/edit?usp=sharing&ouid=117601949312211967096&rtpof=true&sd=true)
+[Cat's Vulnerability Report](https://docs.google.com/document/d/1fSlzb1O6nH7J_dbh4dNbvEVf4sWjmqor/edit?usp=sharing&ouid=117601949312211967096&rtpof=true&sd=true)
