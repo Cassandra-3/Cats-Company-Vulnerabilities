@@ -1,10 +1,10 @@
 # Cats-Company-Vulnerabilities (Fictional)
 
-*This project is part of my Cybersecurity bootcamp. 
-The focus of this project is to:*
-*- Conduct a vulnerability assessment scan and analyze results.*
-*- Complete thorough research of discovered vulnerabilities and document all contributing factors in order to give decision makers as much information as possible for deciding what to mitigate, and in what order.*
-*- Prepare a written report for business executive consumption and understanding.*
+*This project is part of my Cybersecurity bootcamp.  
+The focus of this project is to:*  
+*- Conduct a vulnerability assessment scan and analyze results.*  
+*- Complete thorough research of discovered vulnerabilities and document all contributing factors in order to give decision makers as much information as possible for deciding what to mitigate, and in what order.*  
+*- Prepare a written report for business executive consumption and understanding.*  
 
 A vulnerability assessment scan was conducted and analysed for Cat's Company. A vulnerability assessment report was created for the executive team which includes detailed scan results, methodology, findings, risk assessment and prioritized recommendations.
 
